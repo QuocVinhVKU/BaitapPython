@@ -1,0 +1,5 @@
+a = input()
+a = a.split()
+x = int(a[0])
+n = int(a[1])
+print((x**n)%(10**4))

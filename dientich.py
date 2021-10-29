@@ -1,0 +1,7 @@
+a = int(input())
+b = int(input())
+a2 = int(input())
+b2 = int(input())
+c = min(a,b)
+d = min(a2,b2)
+print((c+d)**2)
